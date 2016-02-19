@@ -7,7 +7,7 @@ mb_internal_encoding('UTF-8');
 
 //die("[$title] , [$desc] \n");
 
-define("TOKEN", "weixin");//修改和乐享平台token值一样即可！并使腾讯的toke值和此一致//
+define("TOKEN", "XXX");//修改和乐享平台token值一样即可！并使腾讯的toke值和此一致//
 $ac =@$_GET['ac'];
 $tid = @$_GET['tid'];
 $page = @$_GET['page'];
